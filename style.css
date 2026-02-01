@@ -1,0 +1,30 @@
+#note{
+    height:25px;
+    width:400px;
+
+}
+#submit{
+    height:30px;
+    color:white;
+    background-color: blue;
+    border: none;
+}
+#submit:hover{
+    scale:1.1
+}
+li{
+
+    font-size: 25px;
+    margin:10px
+
+}
+.btn{
+    height:30px;
+    color:white;
+    background-color: blue;
+    margin-left: 20px;
+    border:none;
+}
+.btn:hover{
+    scale:1.1
+}
